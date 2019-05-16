@@ -1,5 +1,5 @@
 # This was a GUI calculator I created using Python 3 and tkinter as part of an NCEA Level 3 assessment in 2015.
-# Author: Ollie Chick - github.com/olliechick and olliechick.me
+# Author: Ollie Chick - github.com/olliechick and olliechick.co.nz
 
 from tkinter import *#imports everything from tkinter
 from tkinter import ttk#imports the ttk skin, so it conforms with the design standards of the operating system it is running on
